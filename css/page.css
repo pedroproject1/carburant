@@ -1,0 +1,12 @@
+.test {
+ border-width:2px; 
+ border-style:solid; 
+ border-color:black;
+ width:50%;
+ }
+td,th { 
+ border-width:2px;
+ border-style:solid; 
+ border-color:black;
+ width:50%;
+ }
